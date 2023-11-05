@@ -37,4 +37,4 @@
 
 ## Exercises
 
-- [Reading JSON Data into an Array of Objects](./Basics%20and%20Core%20Concepts/3.Introduction%20to%20JavaScript.md)
+- [Reading JSON Data into an Array of Objects](./Basics%20and%20Core%20Concepts/3.Introduction%20to%20JavaScript.md#exercise-reading-json-data-into-an-array-of-objects)
